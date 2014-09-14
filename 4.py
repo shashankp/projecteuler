@@ -1,4 +1,4 @@
-#906609
+#palindrome
  
 def ispalin(si): return str(si)==str(si)[::-1]
  
